@@ -15,7 +15,7 @@ Email Me 👉 ✉️ **faizalikhan700@gmail.com** For Collaboration/Project or A
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizalikhan800@gmail.com) 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data_analyst_snake_working.svg" alt="Data Analyst" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 # 💻 Tech Stack:
