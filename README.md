@@ -3,7 +3,7 @@ A passionate Data Analyst || UX Designer ||
 
 Email Me 👉 ✉️ **faizalikhan700@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
+- 🔭 **I’m currently working on: Excel, SQL, Python, and Power BI as part of my internship at ToTheByte Technologies.
 - 🌱 **I’m currently learning:** BCA
 - 👯 I’m looking to collaborate on: Excel, Power BI, SQL, Python & Tableau Data Analytics Projects.
 - 🤔 I’m looking for help with: Real World Data Analytics Projects
