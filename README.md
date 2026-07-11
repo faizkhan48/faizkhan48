@@ -5,9 +5,9 @@ Email Me 👉 ✉️ **faizalikhan700@gmail.com** For Collaboration/Project or A
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** BCA
-- 👯 **I’m looking to collaborate on: Power BI, SQL & Data Analytics Projects.
-- 🤔 **I’m looking for help with:** Real World Data Analytics Projects
-- 💬 **Ask me about:** Data Analytics, Power BI, SQL, Excel & Dashboard Development.
+- 👯 I’m looking to collaborate on: Excel, Power BI, SQL, Python & Tableau Data Analytics Projects.
+- 🤔 I’m looking for help with: Real World Data Analytics Projects
+- 💬 **Ask me about: Data Analytics, Power BI, SQL, Excel & Dashboard Development.
 - 📫 **How to reach me:** faizalikhan700@gmail.com
 - 😄 **Pronouns:** Faiz
 - ⚡ **Fun fact:** I Love Data
