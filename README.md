@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **faizalikhan700@gmail.com** For Collaboration/Project or A
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** BCA
-- 👯 **I’m looking to collaborate on:**Power BI, SQL & Data Analytics Projects.
+- 👯 **I’m looking to collaborate on: Power BI, SQL & Data Analytics Projects.
 - 🤔 **I’m looking for help with:** Real World Data Analytics Projects
 - 💬 **Ask me about:** Data Analytics, Power BI, SQL, Excel & Dashboard Development.
 - 📫 **How to reach me:** faizalikhan700@gmail.com
@@ -18,7 +18,7 @@ Email Me 👉 ✉️ **faizalikhan700@gmail.com** For Collaboration/Project or A
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <div align="center">
-  <<img width="1400" height="750" alt="Image" src="https://github.com/user-attachments/assets/7cf32149-4ef7-4da7-963f-31cda6ad54bc" />
+  <img width="1400" height="750" alt="Image" src="https://github.com/user-attachments/assets/7cf32149-4ef7-4da7-963f-31cda6ad54bc" />
 </div>
 
 # 📊 GitHub Stats:
